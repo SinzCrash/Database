@@ -1,6 +1,14 @@
-{
-  "tokens": [
- "8420112331:AAGF-PeMB3X52EU5-g8oWoDC0xdsEjqJsPY",
-    "8701816066:AAHDoFrx3wpLD0M7lzNEZymlqg4jaASr76I"
-  ]
-}
+[
+  {
+    "token": "8701816066:AAHDoFrx3wpLD0M7lzNEZymlqg4jaASr76I",
+    "added": "2026-06-28T12:05:00.000Z",
+    "by": "Sinz",
+    "type": "telegram_bot"
+  },
+  {
+    "token": ""8420112331:AAGF-PeMB3X52EU5-g8oWoDC0xdsEjqJsPY",
+    "added": "2026-06-28T16:20:00.000Z",
+    "by": "Sinz",
+    "type": "telegram_bot"
+  }
+]
