@@ -22,5 +22,13 @@
     "expired": null,
     "avatar": "https://files.catbox.moe/clara-avatar.png",
     "created": "2026-06-28T15:00:00.000Z"
+  },
+  {
+    "username": "tes",
+    "password": "1",
+    "role": "owner",
+    "expired": "2026-06-29",
+    "avatar": "https://files.catbox.moe/default-avatar.png",
+    "created": "2026-06-27T18:43:38.200Z"
   }
 ]
