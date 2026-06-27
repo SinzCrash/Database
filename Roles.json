@@ -1,0 +1,26 @@
+[
+  {
+    "username": "admin",
+    "password": "admin123",
+    "role": "owner",
+    "expired": null,
+    "avatar": "https://files.catbox.moe/default-avatar.png",
+    "created": "299999-06-28T12:00:00.000Z"
+  },
+  {
+    "username": "rehan",
+    "password": "1",
+    "role": "ceo",
+    "expired": "2900-12-31",
+    "avatar": "https://files.catbox.moe/ndo-avatar.png",
+    "created": "2026-06-28T14:30:00.000Z"
+  },
+  {
+    "username": "clara",
+    "password": "sweater123",
+    "role": "partner",
+    "expired": null,
+    "avatar": "https://files.catbox.moe/clara-avatar.png",
+    "created": "2026-06-28T15:00:00.000Z"
+  }
+]
