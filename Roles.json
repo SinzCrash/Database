@@ -1,14 +1,18 @@
 [
   {
     "username": "sinz",
-    "pw": "1",
-    "type": "owner",
-    "by": "sinz"
+    "password": "1",
+    "role": "owner",
+    "expired": "Permanent",
+    "avatar": "https://k.top4top.io/p_3668nr7bp0.jpg",
+    "created": "2026-07-01T00:00:00.000Z"
   },
   {
     "username": "kingmu",
-    "pw": "1",
-    "type": "owner",
-    "by": "sinz"
+    "password": "1",
+    "role": "ceo",
+    "expired": "Permanent",
+    "avatar": "https://k.top4top.io/p_3668nr7bp0.jpg",
+    "created": "2026-07-01T00:00:00.000Z"
   }
 ]
