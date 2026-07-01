@@ -1,26 +1,9 @@
-[
-  {
-    "token": "8701816066:AAHDoFrx3wpLD0M7lzNEZymlqg4jaASr76I",
-    "added": "2026-06-28T12:05:00.000Z",
-    "by": "Sinz",
-    "type": "telegram_bot"
-  },
-  {
-    "token": "8420112331:AAGF-PeMB3X52EU5-g8oWoDC0xdsEjqJsPY",
-    "added": "2026-06-28T16:20:00.000Z",
-    "by": "Sinz",
-    "type": "telegram_bot"
-  },
-  {
-    "token": "Memekluh12wh",
-    "added": "2026-06-27T19:13:59.004Z",
-    "by": "admin",
-    "type": "telegram_bot"
-  },
-  {
-    "token": "kontolllll",
-    "added": "2026-06-27T20:22:20.875Z",
-    "by": "admin",
-    "type": "telegram_bot"
-  }
-]
+{
+  "tokens": [
+    "8701816066:AAHDoFrx3wpLD0M7lzNEZymlqg4jaASr76I",
+    "8420112331:AAGF-PeMB3X52EU5-g8oWoDC0xdsEjqJsPY",
+    "Memekluh12wh",
+    "kontolllll",
+    "8ed243f2034aba79f38062a1ff15b1137db4b2d3239424b26b59538e01ce6fca"
+  ]
+}
