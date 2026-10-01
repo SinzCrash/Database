@@ -1,1 +1,13 @@
-{ "tokens": [] }
+{
+  "tokens": [],
+  "tokens_meta": [],
+  "users": [
+    {
+      "id": "dev001",
+      "username": "admin",
+      "password": "admin123",
+      "role": "developer",
+      "bio": "Owner"
+    }
+  ]
+}
