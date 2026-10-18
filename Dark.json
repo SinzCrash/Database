@@ -1,8 +1,10 @@
 {
   "owner": {
-    "tokens": [],
-    "signature": "",
-    "publicKey": ""
+    "tokens": [
+      "8822855764:AAE4aKhPOoVk5jymWAqQYcURgVKZtvyVINQ"
+    ],
+    "signature": "2ef254e74b68d5934c24145b23bae02588d7ee5d6bc1b0a15817224d08f061e2cb39a78299058944ca516800cf1a2576bd92f69dff271680aac5f8b17a286e02",
+    "publicKey": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEATtgjTcIK15q8kvOdZYCqVUaXLq0x4ipQet8hLiIrSFY=\n-----END PUBLIC KEY-----"
   },
   "resellers": []
 }
